@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1534769311 source:d:\semester 2\oop\battleship finished\battleship\main.cpp
+	<iostream>
+	"Game.h"
+
+1532951868 source:d:\semester 2\oop\battleship finished\battleship\src\battleship.cpp
+	"Battleship.h"
+
+1532951864 d:\semester 2\oop\battleship finished\battleship\include\battleship.h
+	"Ship.h"
+
+1533643617 d:\semester 2\oop\battleship finished\battleship\include\ship.h
+	"Position.h"
+
+1531228592 d:\semester 2\oop\battleship finished\battleship\include\position.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+
+1532951863 source:d:\semester 2\oop\battleship finished\battleship\src\carrier.cpp
+	"Carrier.h"
+
+1532951856 d:\semester 2\oop\battleship finished\battleship\include\carrier.h
+	"Ship.h"
+
+1532951869 source:d:\semester 2\oop\battleship finished\battleship\src\cruiser.cpp
+	"Cruiser.h"
+
+1532951866 d:\semester 2\oop\battleship finished\battleship\include\cruiser.h
+	"Ship.h"
+
+1532951874 source:d:\semester 2\oop\battleship finished\battleship\src\destroyer.cpp
+	"Destroyer.h"
+
+1532951873 d:\semester 2\oop\battleship finished\battleship\include\destroyer.h
+	"Ship.h"
+
+1533809608 source:d:\semester 2\oop\battleship finished\battleship\src\position.cpp
+	"Position.h"
+
+1533643617 source:d:\semester 2\oop\battleship finished\battleship\src\ship.cpp
+	"Ship.h"
+
+1532951872 source:d:\semester 2\oop\battleship finished\battleship\src\submarine.cpp
+	"Submarine.h"
+
+1532951870 d:\semester 2\oop\battleship finished\battleship\include\submarine.h
+	"Ship.h"
+
+1534870308 source:d:\semester 2\oop\battleship finished\battleship\src\game.cpp
+	"Game.h"
+
+1534870283 d:\semester 2\oop\battleship finished\battleship\include\game.h
+	"Player.h"
+	<cstdlib>
+	<ctime>
+
+1533814956 d:\semester 2\oop\battleship finished\battleship\include\player.h
+	"Carrier.h"
+	"Battleship.h"
+	"Cruiser.h"
+	"Submarine.h"
+	"Destroyer.h"
+
+1534870283 source:d:\semester 2\oop\battleship finished\battleship\src\player.cpp
+	"Player.h"
+
